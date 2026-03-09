@@ -12,7 +12,6 @@ This platform supports:
 
 ## 🔗 Live Demo
 
-https://aqiprediction-c73dkekehsulnpsean7c5x.streamlit.app/
 
 ---
 
